@@ -1335,10 +1335,10 @@ framer-motion@^5.3.3:
   optionalDependencies:
     "@emotion/is-prop-valid" "^0.8.2"
 
-framer@^2.0.0-beta.13:
-  version "2.0.0-beta.13"
-  resolved "https://registry.yarnpkg.com/framer/-/framer-2.0.0-beta.13.tgz#46549bdea3bd1648bf0394f30e9a071c9368f5ff"
-  integrity sha512-uiUVbZFEvyOPMzXIGaekcIS9yWXC+NBBaDU9atj5GEbtK+78niMIKG4cK38FKWgKG43B2cPsO3s4iwBeapTe5g==
+framer@^2.0.0-beta.16:
+  version "2.0.0-beta.16"
+  resolved "https://registry.yarnpkg.com/framer/-/framer-2.0.0-beta.16.tgz#598a2a3a2a20529bd32e60700c152ae13b311bab"
+  integrity sha512-PDA0bQE7svmBxDCZ0CXoTu45qfF8uM68CF2LPXhBl1niZ79+iu2FmMljOB8Hsz/L3cD1KriTbqUKKkMncTp1EQ==
   dependencies:
     "@juggle/resize-observer" "^3.3.1"
     eventemitter3 "^3.1.0"
